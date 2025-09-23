@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* outline: 1px solid red; */
 }
 
 body {
@@ -55,7 +54,7 @@ button:hover {
     background-color: #45a049;
 }
 
-button:active { /* What does this do? */
+button:active { 
     background-color: #3e8e41; 
 }
 
